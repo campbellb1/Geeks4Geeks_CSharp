@@ -1,0 +1,7 @@
+c:\users\brandon\source\repos\Geeks4Geeks_Cshp\Geeks4Geeks_Cshp\bin\Debug\Geeks4Geeks_Cshp.exe.config
+c:\users\brandon\source\repos\Geeks4Geeks_Cshp\Geeks4Geeks_Cshp\bin\Debug\Geeks4Geeks_Cshp.exe
+c:\users\brandon\source\repos\Geeks4Geeks_Cshp\Geeks4Geeks_Cshp\bin\Debug\Geeks4Geeks_Cshp.pdb
+c:\users\brandon\source\repos\Geeks4Geeks_Cshp\Geeks4Geeks_Cshp\obj\Debug\Geeks4Geeks_Cshp.csprojAssemblyReference.cache
+c:\users\brandon\source\repos\Geeks4Geeks_Cshp\Geeks4Geeks_Cshp\obj\Debug\Geeks4Geeks_Cshp.csproj.CoreCompileInputs.cache
+c:\users\brandon\source\repos\Geeks4Geeks_Cshp\Geeks4Geeks_Cshp\obj\Debug\Geeks4Geeks_Cshp.exe
+c:\users\brandon\source\repos\Geeks4Geeks_Cshp\Geeks4Geeks_Cshp\obj\Debug\Geeks4Geeks_Cshp.pdb
